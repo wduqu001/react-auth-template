@@ -27,7 +27,7 @@ export default function Router() {
   return (
     <BrowserRouter>
       <Routes>
-        <Route path="/" element={() => <Navigate to="/login" />} />
+        <Route path="/" element={<Navigate to="/login" />} />
         <Route path='/login' element={<Login />} />
         <Route element={<RequireAuth />}>
           <Route path='/users' element={<Users />} />
