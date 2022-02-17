@@ -1,0 +1,22 @@
+{
+    "actress": [
+        {
+            "id": 1,
+            "name": "Angelina Jolie",
+            "website": "https://en.wikipedia.org/wiki/Angelina_Jolie",
+            "photo": "https://m.media-amazon.com/images/M/MV5BODg3MzYwMjE4N15BMl5BanBnXkFtZTcwMjU5NzAzNw@@._V1_UY317_CR6,0,214,317_AL_.jpg"
+        },
+        {
+            "id": 2,
+            "name": "Fernanda Montenegro",
+            "website": "https://www.imdb.com/name/nm0005244/bio?ref_=nm_ov_bio_sm",
+            "photo": "https://m.media-amazon.com/images/M/MV5BNzk0ODA3ODk0M15BMl5BanBnXkFtZTYwNTMwMDg1._V1_UY317_CR6,0,214,317_AL_.jpg"
+        },
+        {
+            "id": 3,
+            "name": "Whoopi Goldberg",
+            "website": "https://www.imdb.com/name/nm0000155/bio?ref_=nm_ov_bio_sm",
+            "photo": "https://m.media-amazon.com/images/M/MV5BMjE4ODgzNjQwOV5BMl5BanBnXkFtZTYwNzczNzc0._V1_UY317_CR6,0,214,317_AL_.jpg"
+        }
+    ]
+}
